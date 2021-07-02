@@ -1,0 +1,9 @@
+
+字体文件说明：
+
+1. [[./Inconsolata.otf][Inconsolata]]。这是 1.x 版。
+2. [[./HiraginoSansGB-W3.otf][冬青黑体简体中文 W3]]、[[./HiraginoSansGB-W6.otf][冬青黑体简体中文 W6]]。从 Mac 电脑上扒来的，好像改过参数。
+3. [[./Symbola_hint.ttf][Symbola]]。
+4. [[./seguisym.ttf][Segoe UI Symbol]]。Windows 自带，Win8 以上的不用安装，Win7 如果没有打补丁可能需要安装。
+5. [[./STIX2Text-Regular.otf][STIX]]。[[https://sourceforge.net/projects/stixfonts/files/latest/download][全套字体下载地址]]。
+6. Sarasa Mono SC Regular，不晓得什么版本的，名字含义参考 [[https://github.com/be5invis/Sarasa-Gothic#what-are-the-names][What are the names?]]。Mono 是等宽，SC 代表 Simplified Chinese。
